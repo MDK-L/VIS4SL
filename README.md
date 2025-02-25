@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ### Data Preparation
 
-You can obtain Revision from [Google Drive](https://github.com/msavva/ReVision). And the 16-class ImageNet dataset can be found at [ImageNet](https://github.com/rgeirhos/generalisation-humans-DNNs). All the datasets are well pre-processed and can be used easily.
+You can obtain Revision from [ReVision Github](https://github.com/msavva/ReVision). And the 16-class ImageNet dataset can be found at [16-class ImageNet Github](https://github.com/rgeirhos/generalisation-humans-DNNs). All the datasets are well pre-processed and can be used easily.
 
 ```
 mkdir dataset
